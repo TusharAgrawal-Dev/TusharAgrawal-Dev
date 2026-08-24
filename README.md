@@ -68,7 +68,7 @@ A **Resume Analyzer application** designed to analyze resumes and provide useful
 
 ---
 
-### 🎟️ [Kalagrid](YOUR_KALAGRID_REPOSITORY_LINK) — 🚧 In Progress
+### 🎟️ [Kalagrid](https://github.com/TusharAgrawal-Dev/KalaGrid-Movie-Booking-Microservices-Platform) — 🚧 In Progress
 
 A **microservices-based movie booking platform** designed to simulate a real-world movie ticket booking system.
 
